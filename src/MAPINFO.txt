@@ -1,0 +1,14 @@
+episode MAP15
+{
+	name="Fight Until Completely Killed!"
+}
+
+map MAP15 "Death from above"
+{
+	levelnum=15
+	sky1 = "SKY1"
+	next="MAP16"
+	secretnext="MAP31"
+	music="D_DEAD"
+}
+
