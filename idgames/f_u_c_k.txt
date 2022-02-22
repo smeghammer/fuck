@@ -1,0 +1,74 @@
+===========================================================================
+Archive Maintainer      : new upload
+Update to               : n/a
+Advanced engine needed  : ZDoom (tested with)
+Primary purpose         : Single play
+===========================================================================
+Title                   : Fight Until Completely Killed!
+Filename                : (filename of primary file (fuck.pk3))
+Release date            : 21/02/2022
+Author                  : Smeghammer
+Email Address           : smeghammer@live.com
+Other Files By Author   : Fuck you, Escher; Island Fortress; Tubeworm; Rectilinia; Belial's Ruin
+						  Crush Depth; A Nail in the Skin of the World; Cardial Sin (Heretic level);
+						  Flamer Baron (demo); Corporate Nightmare
+Misc. Author Info       : Biker metalhead with kids.
+
+Description             : Expanded 3D floor demo map, made playable.
+
+Additional Credits to   : 
+===========================================================================
+* What is included *
+
+New levels              : 1 level (MAP15)
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : doom2.wad
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map                     : MAP15 (but has episode start menu)
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : A week or so
+Editor(s) used          : Eureka 1.27b, Slade3
+Known Bugs              : None
+May Not Run With        : vanilla
+Tested With             : GZDoom 4.71
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/smeghammer/fuck
+FTP sites:
+
